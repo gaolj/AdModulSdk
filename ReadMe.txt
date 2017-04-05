@@ -1,4 +1,4 @@
-lib文件夹:	是静态库及说明，静态库是在vc2015sp3环境下编译的
+lib文件夹:	是静态库及说明，静态库是在vs2015sp3及vs2010sp1环境下编译的
 UnitTestClient：client端单元测试及说明
 UnitTestServer：server端单元测试及说明
 BarClientDemo：网吧客户端广告播放演示程序
@@ -20,11 +20,12 @@ BarClientDemo项目的readme.txt中有代码使用的帮助，并且在其git的提交log中，
 windows下的编译好的二进制版本下载地址：
 https://sourceforge.net/projects/boost/files/boost-binaries/
 当前项目AdManager用的是boost1.59的vs2015编译的32位版本：boost_1_59_0-msvc-14.0-32.exe
+以及boost1.59的vs2010编译的32位版本：boost_1_59_0-msvc-10.0-32.exe
 
-2、cpp-netlib-0.9.4.rar解压后放在AdManager同级目录下
-cpp-netlib-0.9.4.rar中的文件是从下面URL下载的源码及编译出来的静态库。
+2、cpp-netlib-0.9.4
+从下面URL下载的源码及编译出来的静态库。
 https://github.com/cpp-netlib/cpp-netlib/tree/cpp-netlib-0.9.4
 
-3、protobuf-3.2.0.rar解压后放在AdManager同级目录下
-protobuf-3.2.0.rar中的文件是从下面URL下载的源码及编译出来的静态库。
+3、protobuf-3.2.0
+从下面URL下载的源码及编译出来的静态库。
 https://github.com/google/protobuf/releases
